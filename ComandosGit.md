@@ -4,7 +4,6 @@ git config --global user.name "AlineAntuarte"
 git config --global user.email "aline.ba@aluno.ifsc.edu.br"
 ```
 
-
 ## 1.1 Configuração para não repetir senha
 ```bash
 git config --global credential.helper cache
